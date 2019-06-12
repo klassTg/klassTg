@@ -1,7 +1,8 @@
 import re
 
 reporterName={339603195:"Король",206656564:"Царь-Иван"}
-
+tok="875337974:AAEAfSYuwK3SeJ-0OFhViUodk2BBCx6tAvs"
+reportUser=["339603195"]
 # "name":message.from_user.first_name,"fillial":listFill[message.text],"nomer":False,"problem":False
 
 problemType=["Хамство","Отсутсвие товара","Благодарность","Предложения","Другое"]
